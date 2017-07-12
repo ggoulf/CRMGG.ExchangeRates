@@ -480,12 +480,12 @@ namespace CRMGG.ExchangeRates
 
         public string RepositoryName
         {
-            get { return "GithubRepositoryName"; }
+            get { return "CRMGG.ExchangeRates"; }
         }
 
         public string UserName
         {
-            get { return "GithubUserName"; }
+            get { return "ggoulf"; }
         }
 
         #endregion Github implementation
@@ -498,7 +498,7 @@ namespace CRMGG.ExchangeRates
 
         public string HelpUrl
         {
-            get { return "http://www.google.com"; }
+            get { return "https://github.com/ggoulf/CRMGG.ExchangeRates"; }
         }
 
         #endregion Help implementation
